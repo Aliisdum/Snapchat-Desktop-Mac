@@ -1,0 +1,25 @@
+{
+  "name": "Snapchat Mac By Ali Abdulla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aliisdum/Snapchat-Desktop-Mac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aliisdum/Snapchat-Desktop-Mac/issues"
+  },
+  "homepage": "https://github.com/Aliisdum/Snapchat-Desktop-Mac#readme",
+  "devDependencies": {
+    "electron": "^39.0.0"
+  }
+}
